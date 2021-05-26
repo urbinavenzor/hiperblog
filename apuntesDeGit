@@ -1,0 +1,27 @@
+sooy david el papa de 
+ruby e hijo de ana  aida pero 
+ademas soy hijo de davir duran
+
+git init 
+git status
+git rm
+git rm --cached
+git add .
+git commit -m ""
+git log
+--------------------------------
+git show
+// Esc+Shitf+Z+Z   salir de bim
+// Ctrl+I
+git diff comparar los commit
+git reset --hard
+git reset --soft
+git checkout // nos abre archivos para realizar cambios iguamente moverse entre las ramas
+------------------------
+git clone url
+git push
+git fetch
+git merge //crea una rama tambien sirve para mandar contenidos enre ramas
+git pull
+git commit -am ""
+git branch // nos muestra la rama actual
